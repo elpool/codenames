@@ -1,3 +1,4 @@
+Click here to play: https://elpool.github.io/codenames/
 
 Clone of the popular board game optimized for playing across video chat.
 
